@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bujursatoru_glitch.twa",
+        "sha256_cert_fingerprints": ["2C:1F:FC:C3:41:3E:BF:91:B2:64:96:F4:A0:97:49:C1:95:4E:80:2B:B2:E3:5B:25:E5:EC:A2:49:10:72:BA:86"]
+      }
+    }]
